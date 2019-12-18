@@ -4,6 +4,6 @@ title: About Myriada
 permalink: /about/
 ---
 
-We are running a Cardano (ADA) stake pool. Please check out the project's [site](https://www.cardano.org/en/home/)
+We are running Cardano (ADA) stake pools. Please check out the Cardano project's official [site](https://www.cardano.org/en/home/)
 
 More information to come.
