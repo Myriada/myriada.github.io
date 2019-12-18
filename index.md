@@ -8,7 +8,7 @@ Our yearly uptime goal *(SLO) is: 99.9%*
 
 We use a [tax-ratio of 4%][1]
   
-Our ticker is: ``MYRY``    
+Our ticker is: ``MYRI``    
 Our pool id is: 
 ``bf43e5bc67a8eae81bd4c71c8f31ab02e284da4502d8b283213160dc9fc68034``
 
