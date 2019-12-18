@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: About Myriada
 permalink: /about/
 ---
 
-Some information about you!
+We are running a Cardano (ADA) stake pool. Please check out the project's [site](https://www.cardano.org/en/home/)
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+More information to come.
