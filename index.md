@@ -17,7 +17,7 @@ Our servers are located in Ireland.
 We delete access logs after 7 days. Disks are encrypted.    
 We use (D)DoS burst protection on nodes, hence our performance will increase over time, while we get a good baseline
 
-## How to delegate / stake
+## How to delegate / stake:
 Please checkout the [Shelly Incentivized Testnet page](https://staking.cardano.org/en/delegation/) - the latest daedalus supports all steps from the UI!
 
 In short:
