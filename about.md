@@ -10,4 +10,4 @@ Please don't hesitate to offer feedback via mail. Our [PGP Key][1] is available 
 
 More information to come.
 
-[1]:{{ site.url }}/downloads/publickey.admin@myriada.info.asc
+[1]:/downloads/publickey.admin@myriada.info.asc
