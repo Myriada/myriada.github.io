@@ -9,6 +9,11 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+@font-face {
+  font-family: "NotoSans";
+  src: url("../assets/fonts/NotoSans-Regular.ttf");
+}
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -19,7 +24,7 @@ html {
 
 body {
   background: #1F1F30;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 "NotoSans";
   color: $lightGray;
 }
 
