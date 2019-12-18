@@ -28,7 +28,7 @@ In short:
 
 ## Our Roadmap:
 
-We are exited to be an active member of the Cardano community and are currently working on providing the following additional services, in addition to the stake pools:
+We are exited to be an active member of the Cardano community and are currently working on providing the following services, in addition to the stake pools:
 
 - live dashboards for pool uptime, performance and relevant statistics
 
