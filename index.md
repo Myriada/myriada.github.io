@@ -7,11 +7,15 @@ layout: default
 {: refdef}
 
 ## Myriada at a glance:
+
 Our yearly uptime goal *(SLO) is: 99.9%*  
 We use a [tax-ratio of 4%](https://input-output-hk.github.io/jormungandr/stake_pool/registering_stake_pool.html#the-primitives). This means 4% of stake rewards, not your principal.  
 Our ticker is: ```MYRI```  
-Our pool id is: ```cbaaa3385925a1b9254a377e0f2e972da133a8939f1d239f8827c4b88dc45e5a```
-  
+Our pool id is: 
+```
+bf43e5bc67a8eae81bd4c71c8f31ab02e284da4502d8b283213160dc9fc68034
+```
+
 Our servers are located in Ireland.  
 We delete access logs after 7 days. Disks are encrypted.    
 We use (D)DoS burst protection on nodes, hence our performance will increase over time, while we get a good baseline
