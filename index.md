@@ -2,19 +2,16 @@
 layout: default 
 ---
 
-{:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/myriada-logo.png)
-{: refdef}
-
 ## Myriada at a glance:
 
 Our yearly uptime goal *(SLO) is: 99.9%*  
-We use a [tax-ratio of 4%](https://input-output-hk.github.io/jormungandr/stake_pool/registering_stake_pool.html#the-primitives). This means 4% of stake rewards, not your principal.  
-Our ticker is: ```MYRI```  
+
+We use a [tax-ratio of 4%][1]
+  
+Our ticker is: ``MYRY``    
 Our pool id is: 
-```
-bf43e5bc67a8eae81bd4c71c8f31ab02e284da4502d8b283213160dc9fc68034
-```
+``bf43e5bc67a8eae81bd4c71c8f31ab02e284da4502d8b283213160dc9fc68034``
+
 
 Our servers are located in Ireland.  
 We delete access logs after 7 days. Disks are encrypted.    
@@ -40,3 +37,4 @@ We are exited to be an active member of the Cardano community and are currently 
 
 - wash trading detection for our favourite exchanges
 
+[1]:https://input-output-hk.github.io/jormungandr/stake_pool/registering_stake_pool.html#the-primitives

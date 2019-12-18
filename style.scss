@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $black;
+  background: #1F1F30;
   font: 18px/1.4 $helvetica;
   color: $lightGray;
 }
@@ -254,9 +254,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $lightGray;
+    border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $lightGray;
     font-size: 22px;
     font-style: italic;
   }
