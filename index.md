@@ -24,7 +24,7 @@ In short:
 1. Download daedalus 
 2. Create a rewards wallet (if you don't have one)
 3. Move your ada to your rewards wallet
-4. Go into the staking menu and find our pool via ticker: ```MYRI```
+4. Go into the staking menu and find our pool via ticker: *MYRI*
 5. Click the icon and hit delegate - you will see short summary of our pool statistics and fees
 
 ## Our Roadmap:
