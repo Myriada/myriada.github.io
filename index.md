@@ -14,6 +14,7 @@ Our ticker is: ``MYRI``
 Our servers are located in Ireland.  
 We rotate logs every 14 days. Disks are encrypted.    
 We use (D)DoS burst protection on nodes and will blacklist nodes with consistently mismatched hashes- Since IOHK nodes are whitelisted, this will not affect rewards in the test net  
+We use automatic fork detection and recovery after 5 minutes, hopefully this will not be required in the next version  
 
 ## How to delegate / stake:
 Please checkout the [Shelly Incentivized Testnet page](https://staking.cardano.org/en/delegation/) - the latest daedalus supports all steps from the UI!
