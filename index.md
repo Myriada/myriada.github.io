@@ -1,18 +1,19 @@
 ---
-layout: default 
+layout: default
+metatags: cardano, ADA, stake pool, PoS, proof of stake, blockchain 
 ---
 
 ## Myriada at a glance:
 
 Our yearly uptime goal *(SLO) is: 99.9%*
 
-We use a [tax-ratio of 4%][1] - this means no fees unless rewards are issued.
+We use a [tax-ratio of 4%][1] - this means no fees unless rewards are issued and 4% of the reward, not your principal.
   
-Our ticker is: ``MYRI``    
+Our ticker is: ``MYRI``  
 
 Our servers are located in Ireland.  
 We rotate logs every 14 days. Disks are encrypted.    
-We use (D)DoS burst protection on nodes, this means that initial performance will be lower until we get a good baseline of legit traffic.
+We use (D)DoS burst protection on nodes and will blacklist nodes with consistently mismatched hashes- Since IOHK nodes are whitelisted, this will not affect rewards in the test net  
 
 ## How to delegate / stake:
 Please checkout the [Shelly Incentivized Testnet page](https://staking.cardano.org/en/delegation/) - the latest daedalus supports all steps from the UI!
