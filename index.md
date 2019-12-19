@@ -4,18 +4,15 @@ layout: default
 
 ## Myriada at a glance:
 
-Our yearly uptime goal *(SLO) is: 99.9%*  
+Our yearly uptime goal *(SLO) is: 99.9%*
 
 We use a [tax-ratio of 4%][1] - this means no fees unless rewards are issued.
   
 Our ticker is: ``MYRI``    
-Our pool id is: 
-``bf43e5bc67a8eae81bd4c71c8f31ab02e284da4502d8b283213160dc9fc68034``
-
 
 Our servers are located in Ireland.  
-We delete access logs after 7 days. Disks are encrypted.    
-We use (D)DoS burst protection on nodes, hence our performance will increase over time, while we get a good baseline
+We rotate logs every 14 days. Disks are encrypted.    
+We use (D)DoS burst protection on nodes, this means that initial performance will be lower until we get a good baseline of legit traffic.
 
 ## How to delegate / stake:
 Please checkout the [Shelly Incentivized Testnet page](https://staking.cardano.org/en/delegation/) - the latest daedalus supports all steps from the UI!
